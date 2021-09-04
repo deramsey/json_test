@@ -1,0 +1,15 @@
+[
+    {
+        "course_id": "CIS 110",
+        "course_name": "Introduction to Computers",
+        "instructor_name": "Derek Ramsey",
+        "level": "Platinum"
+    },
+    {
+        "course_id": "BIO 275",
+        "course_name": "Microbiology",
+        "instructor_name": "Brandon Adair",
+        "level": "Platinum"
+    }
+
+]
