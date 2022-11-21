@@ -10,6 +10,12 @@
         "course_name": "Microbiology",
         "instructor_name": "Brandon Adair",
         "level": "Platinum"
+    },
+    {
+        "course_id": "WEB 215",
+        "course_name": "Advanced Markup and Scripting",
+        "instructor_name": "Derek Ramsey",
+        "level": "Gold"
     }
 
 ]
